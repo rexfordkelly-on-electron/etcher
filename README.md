@@ -14,7 +14,7 @@ Etcher is a powerful OS image flasher built with web technologies to ensure flas
 
 ***
 
-[**Download**](http://etcher.io) | [**Support**](https://github.com/resin-io/etcher/blob/master/SUPPORT.md) | [**Contributing**](https://github.com/resin-io/etcher/blob/master/docs/CONTRIBUTING.md) | [**Roadmap**](https://github.com/resin-io/etcher/milestones) | [**CLI**](https://github.com/resin-io/etcher-cli)
+[**Download**](http://etcher.io) | [**Support**](https://github.com/resin-io/etcher/blob/master/SUPPORT.md) | [**Contributing**](https://github.com/resin-io/etcher/blob/master/docs/CONTRIBUTING.md) | [**Documentation**](https://github.com/resin-io/etcher/blob/master/docs/USER-DOCUMENTATION.md) | [**Roadmap**](https://github.com/resin-io/etcher/milestones) | [**CLI**](https://github.com/resin-io/etcher-cli)
 
 ![Etcher](https://raw.githubusercontent.com/resin-io/etcher/master/screenshot.png)
 
